@@ -1,4 +1,4 @@
-# MediSync-A
+# MediSync-AI
 
 > Developed for the **SustainAI 2026 Ideathon** at VIT Vellore (Industry-Academia Conclave 2.0).
 
