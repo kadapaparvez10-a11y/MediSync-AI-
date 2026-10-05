@@ -1,0 +1,6 @@
+{
+  "name": "CareJourney - Healthcare Coordination Platform",
+  "description": "Secure healthcare coordination connecting patients, lab assistants, doctors, and pharmacies with AI-assisted intake, lab analysis, teleconsultations, digital prescriptions, and continuous monitoring.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
